@@ -12,7 +12,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do
 
 ---
 
-### 📊 Estatísticas
+📊 Estatísticas
 
 <div align="center">
   <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=william-silva-reis&show_icons=true&count_private=true&rank_icon=github&theme=gotham&font=Iosevka"/>
@@ -24,7 +24,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+🤖 Linguagens e Tecnologias
 
 
 <div  style="display: inline_block"><br>
